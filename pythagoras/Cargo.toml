@@ -1,0 +1,10 @@
+[package]
+name = "pythagoras"
+version = "0.1.0"
+authors = ["PontusLaestadius <pontus.laestadius@gmail.com>"]
+include = ["src/**/*", "Cargo.toml"]
+description = "A rust implementation of Pythagoras Theorem."
+repository = "https://github.com/pontuslaestadius/rs-pythagoras"
+keywords = ["pythagoras", "implementation"]
+categories = ["visualization", "text-processing"]
+license = "GPL-3.0"
