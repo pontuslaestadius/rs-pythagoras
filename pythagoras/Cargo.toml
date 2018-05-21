@@ -1,6 +1,6 @@
 [package]
 name = "pythagoras"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["PontusLaestadius <pontus.laestadius@gmail.com>"]
 include = ["src/**/*", "Cargo.toml"]
 description = "A rust implementation of Pythagoras Theorem."
