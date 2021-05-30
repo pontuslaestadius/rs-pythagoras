@@ -1,2 +1,2 @@
 # rs-pythagoras
-Implements pythogras in rust
+Implements pythagoras in rust
